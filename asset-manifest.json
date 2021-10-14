@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/comicstrip/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/comicstrip/static/js/main.0cd0564e.chunk.js",
+    "main.js.map": "/comicstrip/static/js/main.0cd0564e.chunk.js.map",
+    "runtime-main.js": "/comicstrip/static/js/runtime-main.186899f0.js",
+    "runtime-main.js.map": "/comicstrip/static/js/runtime-main.186899f0.js.map",
+    "static/css/2.4659568d.chunk.css": "/comicstrip/static/css/2.4659568d.chunk.css",
+    "static/js/2.6a07bcd3.chunk.js": "/comicstrip/static/js/2.6a07bcd3.chunk.js",
+    "static/js/2.6a07bcd3.chunk.js.map": "/comicstrip/static/js/2.6a07bcd3.chunk.js.map",
+    "static/js/3.4c61b1f6.chunk.js": "/comicstrip/static/js/3.4c61b1f6.chunk.js",
+    "static/js/3.4c61b1f6.chunk.js.map": "/comicstrip/static/js/3.4c61b1f6.chunk.js.map",
+    "index.html": "/comicstrip/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/comicstrip/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/comicstrip/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6a07bcd3.chunk.js.LICENSE.txt": "/comicstrip/static/js/2.6a07bcd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.186899f0.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.6a07bcd3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0cd0564e.chunk.js"
+  ]
+}
