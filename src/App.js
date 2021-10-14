@@ -3,46 +3,46 @@ import { Container, Row, Col } from "reactstrap";
 function App() {
   const row1 = [
     {
-      gameName: "Grand Theft Auto V",
-      gameImg: "deathnote.jpg",
+      gameName: "Road Rash",
+      gameImg: "roadrash.jpg",
     },
     {
-      gameName: "Need For Speed: Most Wanted 2012",
-      gameImg: "deathnote.jpg",
+      gameName: "Mario",
+      gameImg: "mario.jpg",
     },
     {
-      gameName: "Red Dead Redemption II",
-      gameImg: "deathnote.jpg",
+      gameName: "Contra",
+      gameImg: "contra.jpg",
     },
     {
-      gameName: "Counter Strike: Global-Offensive",
-      gameImg: "deathnote.jpg",
+      gameName: "Prince of Persia",
+      gameImg: "pop.jpg",
     },
     {
-      gameName: "VALORANT",
-      gameImg: "deathnote.jpg",
+      gameName: "Grand Theft Auto: Vice City",
+      gameImg: "gta-vc.jpg",
     },
   ];
   const row2 = [
     {
-      gameName: "Player's Unknown Battle Grounds",
-      gameImg: "deathnote.jpg",
+      gameName: "VALORANT",
+      gameImg: "valorant.jpg",
+    },
+    {
+      gameName: "Fireboy & Watergirl",
+      gameImg: "fbandwg.jpg",
+    },
+    {
+      gameName: "Tomb Raider",
+      gameImg: "tombraider.webp",
+    },
+    {
+      gameName: "Clash of Clans",
+      gameImg: "coc.jpg",
     },
     {
       gameName: "HALO",
-      gameImg: "deathnote.jpg",
-    },
-    {
-      gameName: "Fall Guys",
-      gameImg: "deathnote.jpg",
-    },
-    {
-      gameName: "Rocket League",
-      gameImg: "deathnote.jpg",
-    },
-    {
-      gameName: "Genshin Impact",
-      gameImg: "deathnote.jpg",
+      gameImg: "halo.jpg",
     },
   ];
   return (

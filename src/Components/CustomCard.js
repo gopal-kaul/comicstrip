@@ -17,16 +17,29 @@ const CustomCard = ({ gameImg, gameName }) => {
       >
         <>
           <button
-            style={{ backgroundColor: "transparent", borderStyle: "hidden"}}
+            style={{ backgroundColor: "transparent", borderStyle: "hidden" }}
             onClick={handleClick}
           >
-            <img top width="100%" src="assets/card_back.png" alt={gameName} style={{borderRadius:"4%"}}/>
+            <img
+              top
+              width="100%"
+              src={`${process.env.PUBLIC_URL}/assets/card_back.png`}
+              alt={gameName}
+              style={{ borderRadius: "4%" }}
+            />
           </button>
         </>
-        <Card style={{width:232, height:348}}>
-          <CardImg top width="100%" src={`assets/${gameImg}`} alt={gameName} />
+        <Card style={{ width: 232, height: 348 }}>
+          <CardImg
+            top
+            width="100%"
+            src={`${process.env.PUBLIC_URL}/assets/${gameImg}`}
+            alt={gameName}
+          />
           <CardBody>
-            <CardTitle tag="h3" style={{textAlign: "center"}}>{gameName}</CardTitle>
+            <CardTitle tag="h3" style={{ textAlign: "center" }}>
+              {gameName}
+            </CardTitle>
           </CardBody>
         </Card>
       </ReactCardFlip>
