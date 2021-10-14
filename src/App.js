@@ -49,7 +49,7 @@ function App() {
     <div
       className="App"
       style={{
-        backgroundImage: `url(${process.env.PUBLIC_URL + "assets/back.png"})`,
+        backgroundImage: `url(${process.env.PUBLIC_URL + "/assets/back.png"})`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",

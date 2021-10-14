@@ -1,7 +1,7 @@
 import ReactCardFlip from "react-card-flip";
 import { useState } from "react";
 
-import { Card, CardImg, CardBody, CardTitle, Button } from "reactstrap";
+import { Card, CardImg, CardBody, CardTitle } from "reactstrap";
 const CustomCard = ({ gameImg, gameName }) => {
   const [flip, setFlip] = useState(false);
   const handleClick = (e) => {
